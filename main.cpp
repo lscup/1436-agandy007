@@ -87,7 +87,7 @@ int main() {
     }
 
     // Calculate percentage
-    total_percentage_earned = (total_points_earned / total_course_points) * 100;
+    total_percentage_earned = (total_points_earned / total_course_points) * 200;
 
     // Display results
     std::cout << "\nFinal Results\n";
